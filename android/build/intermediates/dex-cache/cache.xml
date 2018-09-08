@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/common-1.0.0_1beabf6ec497c94470fbff3b720a35081873177a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-26.1.0_266d18d78a6bfacfc88b302f702b5eccc15fdaca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.3.0_7f7732bc39b8ea7a3e98217d8db76bf2062b5cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_db0b5ffbe2ea07aa1d790513ceb649b564ec6cea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_53a057b10ef74abc2671e812f39c41f6c3265774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.3.0_e797ad640f4e7ee934f8bac23f3245d38979f79d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/common-1.0.0_d1258c703945870629a27ee38f7d0ccd3f4b9052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_862030f2af82da4494c922f9a0f9aa43cb50ce52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-26.1.0_2ed2de439c5444650dfb2d1e9d15793687ed71e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/javax.inject-1_8cb1fc862518865c6975b5b0c9ba6ebf0b457583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-26.1.0_aae1bc391a8d8bf1057e20cc8cfd2bd78947adaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-26.1.0_49ccab00cce52e96de4905ae17e5e8d44a429103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.55.4_b4be6a6a0063a6091061da5b46b6d6fab55b8814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/Sparkle/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/Sparkle-react-native-vector-icons-unspecified_8cc86640824c02260a8957e3e748fb2152d1324e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.3.0_f64c17eaf011bffdb529b648c924a3c57372e62d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/android.arch.lifecycle-runtime-1.0.0_8916353900bc5cba22306b734f9ac2a77f2c6b1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_97549691619ac7019222e93a81e2d2480540f66d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-26.1.0_ef42df179b9f82f7fcca69d1c4b6d41077899d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_257f286bbcdff2bb9445cfe250b4345bdbd120e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_c6182ea66fc9b9dd06a668fee5abfe3c62dc620b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_1226a5395683a30f937bdca25cbd6479fcbe4094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_739bba6d82f71e236e73fbfc400b4ae174ea1ad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/support-annotations-26.1.0_bcc00ce858b58e092ca9a9902b5669acd74a3ed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d5ebe45ffaa991f74138b0d001bc14175271152d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-26.1.0_2ebd29d4c2a0ad500660124e662e13ae8c9a5d48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/Sparkle/react-native-background-timer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e2c4816cff20848c4a2c94b89c5fd7f5e8c0b359">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/debug/Sparkle-react-native-background-timer-unspecified_ee8c1e66f31407b921daec7a6bf202f76288cbd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-26.1.0_b8c736020e3e9216998c1f56e41e678ade955097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-26.1.0_4435887d9f78965218436d47bb21c1ea2fc0df44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.3.0_2f9e78ba3e71428e9270b41438ba08b56f9ed1c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-26.1.0_6abb1deed75a0a534a2ae7a09fa28c24fa0aefce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_758d7effef7a20cacd2c3a74ecf398c7880ffd8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/smerkous/Documents/light_client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/smerkous/Documents/light_client/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.3.0_9bd73427f23700b4f0a3acdc548eab82f17c3ea7.jar" />
+    </item>
+
+</items>

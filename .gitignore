@@ -76,7 +76,7 @@ buck-out
 .gradle
 local.properties
 *.iml
-/android/
+*.keystore
 
 # OS X
 .DS_Store
